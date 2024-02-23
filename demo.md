@@ -1,3 +1,3 @@
 # Description
 
-[![code style: prettierdddd](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
+[![code style: prettierdddd](https://img.shields.io/badge/code_style2-prettier2-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
